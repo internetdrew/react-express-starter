@@ -1,4 +1,4 @@
-# Full-Stack Tutorials
+# React Express Starter
 
 This repo is the foundation for all my web development tutorials at the site that has yet to be determined.
 
@@ -34,8 +34,8 @@ A modern full-stack application built with **React** (frontend) and **Express** 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/internetdrew/full-stack-tutorials.git
-   cd full-stack-tutorials
+   git clone https://github.com/internetdrew/react-express-starter.git
+   cd react-express-starter
    ```
 
 2. **Install dependencies for both client and server**
@@ -112,20 +112,6 @@ If you get a port error, you can:
 - Check that TypeScript is properly installed: `npx tsc --version`
 - Restart your IDE/editor's TypeScript service
 
-### Next Steps
-
-You'll start here, then choose what to build next 👇
-
-- [Implement tRPC →](https://yourdomain.com/guides/trpc)
-- [Run Supabase locally →](https://yourdomain.com/guides/supabase-local)
-- [Deploy to Vercel →](https://yourdomain.com/guides/vercel-deploy)
-
-Each guide includes:
-
-- A video walkthrough
-- Step-by-step instructions
-- Example code (in `/examples/`)
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
@@ -134,5 +120,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 If you encounter any issues or have questions:
 
-- Check the [Issues](https://github.com/internetdrew/full-stack-tutorials/issues) page
+- Check the [Issues](https://github.com/internetdrew/react-express-starter/issues) page
 - Create a new issue if your problem isn't already documented
