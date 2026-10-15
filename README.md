@@ -4,6 +4,7 @@ This repo is the foundation for all my web development tutorials at the site tha
 
 A modern full-stack application built with **React** (frontend) and **Express** (backend), featuring TypeScript throughout for type safety and better developer experience.
 
+Hi! 54742 has added her line 
 ## Tech Stack
 
 ### Frontend (Client)
